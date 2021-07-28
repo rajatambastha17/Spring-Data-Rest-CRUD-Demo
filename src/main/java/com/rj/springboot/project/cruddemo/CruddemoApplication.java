@@ -11,5 +11,6 @@ public class CruddemoApplication {
 		System.out.println("Keeping the earlier changes");
 		System.out.println("No conflict will arouse now!");
 		System.out.println("Add Line");
+		System.out.println("From Test-Conflict2");
 	}
 }
