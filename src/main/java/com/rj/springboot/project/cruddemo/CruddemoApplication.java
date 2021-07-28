@@ -8,6 +8,6 @@ public class CruddemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CruddemoApplication.class, args);
-		System.out.println("Keeping the earlier changes");
+		System.out.println("Keeping the earlier changes................");
 	}
 }
