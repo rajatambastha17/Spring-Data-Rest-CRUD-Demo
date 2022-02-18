@@ -8,9 +8,5 @@ public class CruddemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CruddemoApplication.class, args);
-		System.out.println("Keeping the earlier changes");
-		System.out.println("No conflict will arouse now!");
-		System.out.println("Add Line");
-		System.out.println("From Test-Conflict2");
 	}
 }
